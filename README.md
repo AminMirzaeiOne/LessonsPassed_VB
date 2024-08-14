@@ -24,4 +24,4 @@ It receives the number of passed courses, then counts the grades of courses belo
 5 - View the result
 
 <h2>📷 Screenshots</h2>
-<img width="675" alt="Capture" src="https://github.com/user-attachments/assets/16e3e619-0830-4c90-8a68-06cba6e7c3a4">
+<img width="674" alt="Capture9" src="https://github.com/user-attachments/assets/98d735bd-3bdb-427a-a80b-c3a9b28f46ea">
